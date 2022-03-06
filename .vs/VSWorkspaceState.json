@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\studentadminportal-ui",
+    "\\studentadminportal-ui\\src",
+    "\\studentadminportal-ui\\src\\app",
+    "\\studentadminportal-ui\\src\\app\\models",
+    "\\studentadminportal-ui\\src\\app\\models\\api-models",
+    "\\studentadminportal-ui\\src\\app\\models\\ui-models",
+    "\\studentadminportal-ui\\src\\app\\students"
+  ],
+  "SelectedNode": "\\studentadminportal-ui\\src\\styles.css",
+  "PreviewInSolutionExplorer": false
+}
