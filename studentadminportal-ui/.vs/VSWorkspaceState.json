@@ -3,6 +3,7 @@
     "",
     "\\src",
     "\\src\\app",
+    "\\src\\app\\services",
     "\\src\\app\\students",
     "\\src\\app\\students\\view-student"
   ],
