@@ -37,4 +37,8 @@ private baseApiUrl = 'https://localhost:5001';
       UpdateStudentRequest);
   }
 
+  deleteStudent(studentId: string): Observable<Student> {
+    return this.httpClient.delete<Student>(this.baseApiUrl + '/students/' + studentId);
+  }
+
 }

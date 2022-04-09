@@ -3,10 +3,12 @@
     "",
     "\\src",
     "\\src\\app",
+    "\\src\\app\\models",
+    "\\src\\app\\models\\api-models",
     "\\src\\app\\services",
     "\\src\\app\\students",
     "\\src\\app\\students\\view-student"
   ],
-  "SelectedNode": "\\src\\app\\students\\view-student\\view-student.component.html",
+  "SelectedNode": "\\src\\app\\models\\api-models\\address.model.ts",
   "PreviewInSolutionExplorer": false
 }
