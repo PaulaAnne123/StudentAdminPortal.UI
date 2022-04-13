@@ -5,10 +5,11 @@
     "\\src\\app",
     "\\src\\app\\models",
     "\\src\\app\\models\\api-models",
+    "\\src\\app\\models\\ui-models",
     "\\src\\app\\services",
     "\\src\\app\\students",
     "\\src\\app\\students\\view-student"
   ],
-  "SelectedNode": "\\src\\app\\models\\api-models\\address.model.ts",
+  "SelectedNode": "\\src\\styles.css",
   "PreviewInSolutionExplorer": false
 }
